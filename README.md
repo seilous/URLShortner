@@ -66,21 +66,3 @@ yarn install
 yarn run start
 ```
 
-## Demo
-
-![NSGIF](https://j.gifs.com/1rnQV0.gif)
-
-## Blog
-
-[Creating custom URL shortener with Nodejs](https://codeburst.io/creating-custom-url-shortener-with-nodejs-de10bbbb89c7)
-
-## ☑ TODO
-
-- [x] Front end app
-- [x] Documentation and Blog
-- [x] Add Redis for caching
-- [ ] Change short code algorithm and check duplicate short codes
-
-## License
-
-MIT
